@@ -48,7 +48,8 @@ ii)	Create Schematic Cell view.
 	Make the connections by using fixed narrow wire key
 	Click Check and Save button
 
-![IMG-20241019-WA0034](https://github.com/user-attachments/assets/08a8f278-00e2-44d9-8420-a3fcf0586a7e)
+![Screenshot (83)](https://github.com/user-attachments/assets/4c5ac9e4-22d4-46b9-aa08-6f0c3743f0c3)
+
 
 
  
@@ -66,7 +67,8 @@ iii)	Creating the Symbol for schematic Cell view
 •	Check for the position of pin side.Prss OK
 •	Edit for the shape by Create-Shape-Choose required options to edit.
 
- ![IMG-20241019-WA0035](https://github.com/user-attachments/assets/dc5f18cf-8e4a-4970-a9bd-ced5c15fcfd9)
+![Screenshot (84)](https://github.com/user-attachments/assets/3a2413d5-1bf7-41e3-a602-f7defef942bf)
+
 
 
 
@@ -81,7 +83,8 @@ iv)	Creating the new test cell view
 •	Follow the step 3(ii) d to make the required connections
 
 
-![IMG-20241019-WA0036](https://github.com/user-attachments/assets/02d259ca-3a61-46ae-bd0a-64d357310646)
+![Screenshot (80)](https://github.com/user-attachments/assets/72909136-2de3-4914-8df4-98e49b2971ae)
+
 
  
 Analog simulation by SPECTRE.
@@ -94,12 +97,14 @@ Analog simulation by SPECTRE.
 	Execute Output s—to be plotted – Select on Schematic
 	Then Select the INPUT WIRE(Vin ) and OUTPUT WIRE(Vout) from your test Schematic using mouse
 •	Execute Simulation -- Net list and Run
-![IMG-20241019-WA0033](https://github.com/user-attachments/assets/3f603cf1-7394-4561-ae07-fbe55615e8be)
+![Screenshot (82)](https://github.com/user-attachments/assets/ed647a47-ac64-43e8-a668-0c88aca0addc)
+
 
 
 For Transient Analysis Settings and Output
  
-![IMG-20241019-WA0040](https://github.com/user-attachments/assets/384f880f-a1e4-4afa-8302-d7667c2f535b)
+![Screenshot (81)](https://github.com/user-attachments/assets/77999d0b-9aba-40f1-8a55-f5c298c1b976)
+
 
 
  
