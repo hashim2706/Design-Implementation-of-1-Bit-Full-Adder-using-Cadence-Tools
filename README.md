@@ -77,6 +77,7 @@ Commands to get into Cadence:
 -	Check for the position of pin side.Prss OK
 -	Edit for the shape by Create-Shape-Choose required options to edit.
 
+
 ![Screenshot (84)](https://github.com/user-attachments/assets/078f39b6-4fa1-4792-8990-4d21ded9801f)
 
 #### iv)	Creating the new test cell view
